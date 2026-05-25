@@ -39,6 +39,18 @@
         {"course_code": "IS101", "course_title": "Introduction to Information Systems", "units": 3, "instructor": "Ms. Paula Tan"},
         {"course_code": "PROG101", "course_title": "Computer Programming 1", "units": 3, "instructor": "Mr. Daniel Uy"}
       ]
+    },
+    {
+      "student_id": "2026-0004",
+      "first_name": "Miguel",
+      "last_name": "Garcia",
+      "program": "BS Information Technology",
+      "year_level": 2,
+      "email": "miguel.garcia@example.com",
+      "courses": [
+        {"course_code": "ITP101", "course_title": "Integrative Programming Technologies", "units": 3, "instructor": "Mr. Jerry Canale"},
+        {"course_code": "DBMS201", "course_title": "Database Management Systems", "units": 3, "instructor": "Dr. Ana Reyes"}
+      ]
     }
   ]
 }
